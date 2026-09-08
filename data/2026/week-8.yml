@@ -1,0 +1,117 @@
+games:
+  - away:
+      abbr: CAR
+      logo: car.png
+      name: Carolina Panthers
+    home:
+      abbr: GB
+      logo: gb.png
+      name: Green Bay Packers
+  - away:
+      abbr: BAL
+      logo: bal.png
+      name: Baltimore Ravens
+    home:
+      abbr: BUF
+      logo: buf.png
+      name: Buffalo Bills
+  - away:
+      abbr: TEN
+      logo: ten.png
+      name: Tennessee Titans
+    home:
+      abbr: CIN
+      logo: cin.png
+      name: Cincinnati Bengals
+  - away:
+      abbr: ARI
+      logo: ari.png
+      name: Arizona Cardinals
+    home:
+      abbr: DAL
+      logo: dal.png
+      name: Dallas Cowboys
+  - away:
+      abbr: MIN
+      logo: min.png
+      name: Minnesota Vikings
+    home:
+      abbr: DET
+      logo: det.png
+      name: Detroit Lions
+  - away:
+      abbr: LV
+      logo: lv.png
+      name: Las Vegas Raiders
+    home:
+      abbr: NYJ
+      logo: nyj.png
+      name: New York Jets
+  - away:
+      abbr: CLE
+      logo: cle.png
+      name: Cleveland Browns
+    home:
+      abbr: PIT
+      logo: pit.png
+      name: Pittsburgh Steelers
+  - away:
+      abbr: ATL
+      logo: atl.png
+      name: Atlanta Falcons
+    home:
+      abbr: TB
+      logo: tb.png
+      name: Tampa Bay Buccaneers
+  - away:
+      abbr: IND
+      logo: ind.png
+      name: Indianapolis Colts
+    home:
+      abbr: JAX
+      logo: jax.png
+      name: Jacksonville Jaguars
+  - away:
+      abbr: LAC
+      logo: lac.png
+      name: Los Angeles Chargers
+    home:
+      abbr: LAR
+      logo: lar.png
+      name: Los Angeles Rams
+  - away:
+      abbr: KC
+      logo: kc.png
+      name: Kansas City Chiefs
+    home:
+      abbr: DEN
+      logo: den.png
+      name: Denver Broncos
+  - away:
+      abbr: NE
+      logo: ne.png
+      name: New England Patriots
+    home:
+      abbr: MIA
+      logo: mia.png
+      name: Miami Dolphins
+  - away:
+      abbr: PHI
+      logo: phi.png
+      name: Philadelphia Eagles
+    home:
+      abbr: WAS
+      logo: was.png
+      name: Washington Commanders
+  - away:
+      abbr: CHI
+      logo: chi.png
+      name: Chicago Bears
+    home:
+      abbr: SEA
+      logo: sea.png
+      name: Seattle Seahawks
+season: 2026 Season
+title: Week 8
+week: 8
+year: 2026

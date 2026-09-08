@@ -18,6 +18,9 @@ export const currentSeason = seasons[0] || null;
 /** The most recent week in the most recent season (current week). */
 export function getCurrentWeek() {
   if (!currentSeason) return null;
+  // Prefer an explicitly-flagged current week (data/{year}/week-{N}.yml with `current: true`).
+  const active = currentSeason.weeks.find((w) => w.current === true);
+  if (active) return active;
   const weeks = [...currentSeason.weeks].sort((a, b) => Number(b.week) - Number(a.week));
   return weeks[0] || null;
 }
@@ -96,6 +99,7 @@ export function seasonStats(season) {
   const seen = new Set();
   for (const week of season.weeks) {
     for (const game of week.games || []) {
+      if (!game.pick) continue; // only count games we've actually made a pick for
       const key = `${game.home?.abbr}-${game.away?.abbr}-${game.pick}`;
       if (seen.has(key)) continue;
       seen.add(key);

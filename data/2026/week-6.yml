@@ -1,0 +1,117 @@
+games:
+  - away:
+      abbr: SEA
+      logo: sea.png
+      name: Seattle Seahawks
+    home:
+      abbr: DEN
+      logo: den.png
+      name: Denver Broncos
+  - away:
+      abbr: HOU
+      logo: hou.png
+      name: Houston Texans
+    home:
+      abbr: JAX
+      logo: jax.png
+      name: Jacksonville Jaguars
+  - away:
+      abbr: CHI
+      logo: chi.png
+      name: Chicago Bears
+    home:
+      abbr: ATL
+      logo: atl.png
+      name: Atlanta Falcons
+  - away:
+      abbr: BAL
+      logo: bal.png
+      name: Baltimore Ravens
+    home:
+      abbr: CLE
+      logo: cle.png
+      name: Cleveland Browns
+  - away:
+      abbr: TEN
+      logo: ten.png
+      name: Tennessee Titans
+    home:
+      abbr: IND
+      logo: ind.png
+      name: Indianapolis Colts
+  - away:
+      abbr: NYJ
+      logo: nyj.png
+      name: New York Jets
+    home:
+      abbr: NE
+      logo: ne.png
+      name: New England Patriots
+  - away:
+      abbr: 'NO'
+      logo: no.png
+      name: New Orleans Saints
+    home:
+      abbr: NYG
+      logo: nyg.png
+      name: New York Giants
+  - away:
+      abbr: CAR
+      logo: car.png
+      name: Carolina Panthers
+    home:
+      abbr: PHI
+      logo: phi.png
+      name: Philadelphia Eagles
+  - away:
+      abbr: PIT
+      logo: pit.png
+      name: Pittsburgh Steelers
+    home:
+      abbr: TB
+      logo: tb.png
+      name: Tampa Bay Buccaneers
+  - away:
+      abbr: ARI
+      logo: ari.png
+      name: Arizona Cardinals
+    home:
+      abbr: LAR
+      logo: lar.png
+      name: Los Angeles Rams
+  - away:
+      abbr: LAC
+      logo: lac.png
+      name: Los Angeles Chargers
+    home:
+      abbr: KC
+      logo: kc.png
+      name: Kansas City Chiefs
+  - away:
+      abbr: BUF
+      logo: buf.png
+      name: Buffalo Bills
+    home:
+      abbr: LV
+      logo: lv.png
+      name: Las Vegas Raiders
+  - away:
+      abbr: DAL
+      logo: dal.png
+      name: Dallas Cowboys
+    home:
+      abbr: GB
+      logo: gb.png
+      name: Green Bay Packers
+  - away:
+      abbr: WAS
+      logo: was.png
+      name: Washington Commanders
+    home:
+      abbr: SF
+      logo: sf.png
+      name: San Francisco 49ers
+season: 2026 Season
+title: Week 6
+week: 6
+year: 2026

@@ -41,6 +41,7 @@ games:
 | `week`       | number            | yes      | Week number; `week-{N}.yml` should match. |
 | `season`     | string            | no       | Label for the banner (defaults to `"<year> Season"`). |
 | `title`      | string            | no       | Human-friendly title for the week. |
+| `current`    | boolean           | no       | If `true`, the site shows this as the **current week** (the "This Week's Picks" section). Set it on the week you're currently picking; move it forward as the season goes on. Defaults to the latest week. |
 | `intro`      | string            | no       | Short description shown under the section heading. |
 | `games`      | array of game     | yes      | List of games for the week. |
 | `home.name`  | string            | yes      | Full team name. |
@@ -73,3 +74,18 @@ games:
     lesson: "We learned not to trust the Cowboys in primetime — the Eagles' O-line wore them down."
     score: { home: 20, away: 34 }
 ```
+
+## Pre-generating a season's schedule
+
+You can scaffold a whole season of week files (with every match-up filled in, but no
+picks) from ESPN's public schedule:
+
+```bash
+node scripts/generate-season.mjs 2026 1
+#                       ^season  ^active (current) week
+```
+
+This writes `data/2026/week-1.yml` … `data/2026/week-18.yml` with `home`/`away` team info
+only (plus `current: true` on the active week). Then you just add `pick`, `rationale`,
+`result` and `lesson` to each game as you record the episode. Re-running any week is safe
+(it regenerates the match-ups).

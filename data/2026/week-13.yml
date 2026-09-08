@@ -1,0 +1,117 @@
+games:
+  - away:
+      abbr: KC
+      logo: kc.png
+      name: Kansas City Chiefs
+    home:
+      abbr: LAR
+      logo: lar.png
+      name: Los Angeles Rams
+  - away:
+      abbr: DET
+      logo: det.png
+      name: Detroit Lions
+    home:
+      abbr: ATL
+      logo: atl.png
+      name: Atlanta Falcons
+  - away:
+      abbr: JAX
+      logo: jax.png
+      name: Jacksonville Jaguars
+    home:
+      abbr: CHI
+      logo: chi.png
+      name: Chicago Bears
+  - away:
+      abbr: CIN
+      logo: cin.png
+      name: Cincinnati Bengals
+    home:
+      abbr: CLE
+      logo: cle.png
+      name: Cleveland Browns
+  - away:
+      abbr: WAS
+      logo: was.png
+      name: Washington Commanders
+    home:
+      abbr: TEN
+      logo: ten.png
+      name: Tennessee Titans
+  - away:
+      abbr: GB
+      logo: gb.png
+      name: Green Bay Packers
+    home:
+      abbr: 'NO'
+      logo: no.png
+      name: New Orleans Saints
+  - away:
+      abbr: SF
+      logo: sf.png
+      name: San Francisco 49ers
+    home:
+      abbr: NYG
+      logo: nyg.png
+      name: New York Giants
+  - away:
+      abbr: LAC
+      logo: lac.png
+      name: Los Angeles Chargers
+    home:
+      abbr: TB
+      logo: tb.png
+      name: Tampa Bay Buccaneers
+  - away:
+      abbr: MIA
+      logo: mia.png
+      name: Miami Dolphins
+    home:
+      abbr: DEN
+      logo: den.png
+      name: Denver Broncos
+  - away:
+      abbr: PHI
+      logo: phi.png
+      name: Philadelphia Eagles
+    home:
+      abbr: ARI
+      logo: ari.png
+      name: Arizona Cardinals
+  - away:
+      abbr: CAR
+      logo: car.png
+      name: Carolina Panthers
+    home:
+      abbr: MIN
+      logo: min.png
+      name: Minnesota Vikings
+  - away:
+      abbr: BUF
+      logo: buf.png
+      name: Buffalo Bills
+    home:
+      abbr: NE
+      logo: ne.png
+      name: New England Patriots
+  - away:
+      abbr: HOU
+      logo: hou.png
+      name: Houston Texans
+    home:
+      abbr: PIT
+      logo: pit.png
+      name: Pittsburgh Steelers
+  - away:
+      abbr: DAL
+      logo: dal.png
+      name: Dallas Cowboys
+    home:
+      abbr: SEA
+      logo: sea.png
+      name: Seattle Seahawks
+season: 2026 Season
+title: Week 13
+week: 13
+year: 2026

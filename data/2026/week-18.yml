@@ -1,0 +1,133 @@
+games:
+  - away:
+      abbr: NYJ
+      logo: nyj.png
+      name: New York Jets
+    home:
+      abbr: BUF
+      logo: buf.png
+      name: Buffalo Bills
+  - away:
+      abbr: CLE
+      logo: cle.png
+      name: Cleveland Browns
+    home:
+      abbr: CIN
+      logo: cin.png
+      name: Cincinnati Bengals
+  - away:
+      abbr: LAC
+      logo: lac.png
+      name: Los Angeles Chargers
+    home:
+      abbr: DEN
+      logo: den.png
+      name: Denver Broncos
+  - away:
+      abbr: DET
+      logo: det.png
+      name: Detroit Lions
+    home:
+      abbr: GB
+      logo: gb.png
+      name: Green Bay Packers
+  - away:
+      abbr: JAX
+      logo: jax.png
+      name: Jacksonville Jaguars
+    home:
+      abbr: IND
+      logo: ind.png
+      name: Indianapolis Colts
+  - away:
+      abbr: LV
+      logo: lv.png
+      name: Las Vegas Raiders
+    home:
+      abbr: KC
+      logo: kc.png
+      name: Kansas City Chiefs
+  - away:
+      abbr: SEA
+      logo: sea.png
+      name: Seattle Seahawks
+    home:
+      abbr: LAR
+      logo: lar.png
+      name: Los Angeles Rams
+  - away:
+      abbr: CHI
+      logo: chi.png
+      name: Chicago Bears
+    home:
+      abbr: MIN
+      logo: min.png
+      name: Minnesota Vikings
+  - away:
+      abbr: MIA
+      logo: mia.png
+      name: Miami Dolphins
+    home:
+      abbr: NE
+      logo: ne.png
+      name: New England Patriots
+  - away:
+      abbr: TB
+      logo: tb.png
+      name: Tampa Bay Buccaneers
+    home:
+      abbr: 'NO'
+      logo: no.png
+      name: New Orleans Saints
+  - away:
+      abbr: PHI
+      logo: phi.png
+      name: Philadelphia Eagles
+    home:
+      abbr: NYG
+      logo: nyg.png
+      name: New York Giants
+  - away:
+      abbr: SF
+      logo: sf.png
+      name: San Francisco 49ers
+    home:
+      abbr: ARI
+      logo: ari.png
+      name: Arizona Cardinals
+  - away:
+      abbr: DAL
+      logo: dal.png
+      name: Dallas Cowboys
+    home:
+      abbr: WAS
+      logo: was.png
+      name: Washington Commanders
+  - away:
+      abbr: ATL
+      logo: atl.png
+      name: Atlanta Falcons
+    home:
+      abbr: CAR
+      logo: car.png
+      name: Carolina Panthers
+  - away:
+      abbr: PIT
+      logo: pit.png
+      name: Pittsburgh Steelers
+    home:
+      abbr: BAL
+      logo: bal.png
+      name: Baltimore Ravens
+  - away:
+      abbr: TEN
+      logo: ten.png
+      name: Tennessee Titans
+    home:
+      abbr: HOU
+      logo: hou.png
+      name: Houston Texans
+season: 2026 Season
+title: Week 18
+week: 18
+year: 2026

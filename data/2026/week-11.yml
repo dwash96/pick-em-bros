@@ -1,0 +1,109 @@
+games:
+  - away:
+      abbr: IND
+      logo: ind.png
+      name: Indianapolis Colts
+    home:
+      abbr: HOU
+      logo: hou.png
+      name: Houston Texans
+  - away:
+      abbr: MIA
+      logo: mia.png
+      name: Miami Dolphins
+    home:
+      abbr: BUF
+      logo: buf.png
+      name: Buffalo Bills
+  - away:
+      abbr: 'NO'
+      logo: no.png
+      name: New Orleans Saints
+    home:
+      abbr: CHI
+      logo: chi.png
+      name: Chicago Bears
+  - away:
+      abbr: TEN
+      logo: ten.png
+      name: Tennessee Titans
+    home:
+      abbr: DAL
+      logo: dal.png
+      name: Dallas Cowboys
+  - away:
+      abbr: TB
+      logo: tb.png
+      name: Tampa Bay Buccaneers
+    home:
+      abbr: DET
+      logo: det.png
+      name: Detroit Lions
+  - away:
+      abbr: ARI
+      logo: ari.png
+      name: Arizona Cardinals
+    home:
+      abbr: KC
+      logo: kc.png
+      name: Kansas City Chiefs
+  - away:
+      abbr: JAX
+      logo: jax.png
+      name: Jacksonville Jaguars
+    home:
+      abbr: NYG
+      logo: nyg.png
+      name: New York Giants
+  - away:
+      abbr: BAL
+      logo: bal.png
+      name: Baltimore Ravens
+    home:
+      abbr: CAR
+      logo: car.png
+      name: Carolina Panthers
+  - away:
+      abbr: NYJ
+      logo: nyj.png
+      name: New York Jets
+    home:
+      abbr: LAC
+      logo: lac.png
+      name: Los Angeles Chargers
+  - away:
+      abbr: LV
+      logo: lv.png
+      name: Las Vegas Raiders
+    home:
+      abbr: DEN
+      logo: den.png
+      name: Denver Broncos
+  - away:
+      abbr: PIT
+      logo: pit.png
+      name: Pittsburgh Steelers
+    home:
+      abbr: PHI
+      logo: phi.png
+      name: Philadelphia Eagles
+  - away:
+      abbr: MIN
+      logo: min.png
+      name: Minnesota Vikings
+    home:
+      abbr: SF
+      logo: sf.png
+      name: San Francisco 49ers
+  - away:
+      abbr: CIN
+      logo: cin.png
+      name: Cincinnati Bengals
+    home:
+      abbr: WAS
+      logo: was.png
+      name: Washington Commanders
+season: 2026 Season
+title: Week 11
+week: 11
+year: 2026

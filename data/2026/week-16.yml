@@ -1,0 +1,133 @@
+games:
+  - away:
+      abbr: HOU
+      logo: hou.png
+      name: Houston Texans
+    home:
+      abbr: PHI
+      logo: phi.png
+      name: Philadelphia Eagles
+  - away:
+      abbr: GB
+      logo: gb.png
+      name: Green Bay Packers
+    home:
+      abbr: CHI
+      logo: chi.png
+      name: Chicago Bears
+  - away:
+      abbr: BUF
+      logo: buf.png
+      name: Buffalo Bills
+    home:
+      abbr: DEN
+      logo: den.png
+      name: Denver Broncos
+  - away:
+      abbr: LAR
+      logo: lar.png
+      name: Los Angeles Rams
+    home:
+      abbr: SEA
+      logo: sea.png
+      name: Seattle Seahawks
+  - away:
+      abbr: TB
+      logo: tb.png
+      name: Tampa Bay Buccaneers
+    home:
+      abbr: ATL
+      logo: atl.png
+      name: Atlanta Falcons
+  - away:
+      abbr: CIN
+      logo: cin.png
+      name: Cincinnati Bengals
+    home:
+      abbr: IND
+      logo: ind.png
+      name: Indianapolis Colts
+  - away:
+      abbr: WAS
+      logo: was.png
+      name: Washington Commanders
+    home:
+      abbr: MIN
+      logo: min.png
+      name: Minnesota Vikings
+  - away:
+      abbr: CAR
+      logo: car.png
+      name: Carolina Panthers
+    home:
+      abbr: PIT
+      logo: pit.png
+      name: Pittsburgh Steelers
+  - away:
+      abbr: LAC
+      logo: lac.png
+      name: Los Angeles Chargers
+    home:
+      abbr: MIA
+      logo: mia.png
+      name: Miami Dolphins
+  - away:
+      abbr: ARI
+      logo: ari.png
+      name: Arizona Cardinals
+    home:
+      abbr: 'NO'
+      logo: no.png
+      name: New Orleans Saints
+  - away:
+      abbr: NE
+      logo: ne.png
+      name: New England Patriots
+    home:
+      abbr: NYJ
+      logo: nyj.png
+      name: New York Jets
+  - away:
+      abbr: CLE
+      logo: cle.png
+      name: Cleveland Browns
+    home:
+      abbr: BAL
+      logo: bal.png
+      name: Baltimore Ravens
+  - away:
+      abbr: TEN
+      logo: ten.png
+      name: Tennessee Titans
+    home:
+      abbr: LV
+      logo: lv.png
+      name: Las Vegas Raiders
+  - away:
+      abbr: SF
+      logo: sf.png
+      name: San Francisco 49ers
+    home:
+      abbr: KC
+      logo: kc.png
+      name: Kansas City Chiefs
+  - away:
+      abbr: JAX
+      logo: jax.png
+      name: Jacksonville Jaguars
+    home:
+      abbr: DAL
+      logo: dal.png
+      name: Dallas Cowboys
+  - away:
+      abbr: NYG
+      logo: nyg.png
+      name: New York Giants
+    home:
+      abbr: DET
+      logo: det.png
+      name: Detroit Lions
+season: 2026 Season
+title: Week 16
+week: 16
+year: 2026

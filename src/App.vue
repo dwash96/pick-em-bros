@@ -17,7 +17,11 @@ const currentWeek = getCurrentWeek();
 const allWeeks = getAllWeeks();
 // Past weeks = every week except the current (latest) week, sorted desc.
 const pastWeeks = currentWeek
-  ? allWeeks.filter((w) => !(w.year === currentWeek.year && w.week === currentWeek.week))
+  ? allWeeks.filter((w) => {
+      const y = Number(w.year);
+      const curY = Number(currentWeek.year);
+      return y < curY || (y === curY && Number(w.week) < Number(currentWeek.week));
+    })
   : allWeeks;
 
 const season = currentSeason;

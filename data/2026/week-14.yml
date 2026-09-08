@@ -1,0 +1,125 @@
+games:
+  - away:
+      abbr: MIN
+      logo: min.png
+      name: Minnesota Vikings
+    home:
+      abbr: NE
+      logo: ne.png
+      name: New England Patriots
+  - away:
+      abbr: ATL
+      logo: atl.png
+      name: Atlanta Falcons
+    home:
+      abbr: CLE
+      logo: cle.png
+      name: Cleveland Browns
+  - away:
+      abbr: TEN
+      logo: ten.png
+      name: Tennessee Titans
+    home:
+      abbr: DET
+      logo: det.png
+      name: Detroit Lions
+  - away:
+      abbr: CHI
+      logo: chi.png
+      name: Chicago Bears
+    home:
+      abbr: MIA
+      logo: mia.png
+      name: Miami Dolphins
+  - away:
+      abbr: DEN
+      logo: den.png
+      name: Denver Broncos
+    home:
+      abbr: NYJ
+      logo: nyj.png
+      name: New York Jets
+  - away:
+      abbr: IND
+      logo: ind.png
+      name: Indianapolis Colts
+    home:
+      abbr: PHI
+      logo: phi.png
+      name: Philadelphia Eagles
+  - away:
+      abbr: HOU
+      logo: hou.png
+      name: Houston Texans
+    home:
+      abbr: WAS
+      logo: was.png
+      name: Washington Commanders
+  - away:
+      abbr: 'NO'
+      logo: no.png
+      name: New Orleans Saints
+    home:
+      abbr: CAR
+      logo: car.png
+      name: Carolina Panthers
+  - away:
+      abbr: TB
+      logo: tb.png
+      name: Tampa Bay Buccaneers
+    home:
+      abbr: BAL
+      logo: bal.png
+      name: Baltimore Ravens
+  - away:
+      abbr: LAC
+      logo: lac.png
+      name: Los Angeles Chargers
+    home:
+      abbr: LV
+      logo: lv.png
+      name: Las Vegas Raiders
+  - away:
+      abbr: KC
+      logo: kc.png
+      name: Kansas City Chiefs
+    home:
+      abbr: CIN
+      logo: cin.png
+      name: Cincinnati Bengals
+  - away:
+      abbr: LAR
+      logo: lar.png
+      name: Los Angeles Rams
+    home:
+      abbr: SF
+      logo: sf.png
+      name: San Francisco 49ers
+  - away:
+      abbr: NYG
+      logo: nyg.png
+      name: New York Giants
+    home:
+      abbr: SEA
+      logo: sea.png
+      name: Seattle Seahawks
+  - away:
+      abbr: BUF
+      logo: buf.png
+      name: Buffalo Bills
+    home:
+      abbr: GB
+      logo: gb.png
+      name: Green Bay Packers
+  - away:
+      abbr: PIT
+      logo: pit.png
+      name: Pittsburgh Steelers
+    home:
+      abbr: JAX
+      logo: jax.png
+      name: Jacksonville Jaguars
+season: 2026 Season
+title: Week 14
+week: 14
+year: 2026

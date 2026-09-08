@@ -1,0 +1,34 @@
+year: 2025
+week: 3
+season: "2025 Season"
+title: "Week 3"
+intro: "Third week of the season. We're feeling good about these matchups."
+games:
+  - home: { name: "Kansas City Chiefs", abbr: KC, logo: kc.png }
+    away: { name: "Atlanta Falcons", abbr: ATL, logo: atl.png }
+    pick: KC
+    picker: "Dwash"
+    confidence: 4
+    rationale: "The Chiefs' offense is clicking and Arrowhead is loud. Falcons' passing game hasn't shown up yet."
+    result: pending
+  - home: { name: "Dallas Cowboys", abbr: DAL, logo: dal.png }
+    away: { name: "Philadelphia Eagles", abbr: PHI, logo: phi.png }
+    pick: PHI
+    picker: "The Bro"
+    confidence: 3
+    rationale: "Eagles' O-line should wear down the Dallas defense in the second half."
+    result: pending
+  - home: { name: "Buffalo Bills", abbr: BUF, logo: buf.png }
+    away: { name: "Miami Dolphins", abbr: MIA, logo: mia.png }
+    pick: BUF
+    picker: "Dwash"
+    confidence: 5
+    rationale: "Cold weather and a strong run game. Dolphins struggle on the road."
+    result: pending
+  - home: { name: "Green Bay Packers", abbr: GB, logo: gb.png }
+    away: { name: "Detroit Lions", abbr: DET, logo: det.png }
+    pick: DET
+    picker: "The Bro"
+    confidence: 2
+    rationale: "This is a trap pick. Detroit's speed should edge it, but it's close."
+    result: pending

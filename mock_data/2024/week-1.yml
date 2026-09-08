@@ -1,0 +1,23 @@
+year: 2024
+week: 1
+season: "2024 Season"
+title: "Week 1"
+intro: "Our first-ever week on the podcast. A lot of lessons learned this year."
+games:
+  - home: { name: "Philadelphia Eagles", abbr: PHI, logo: phi.png }
+    away: { name: "Green Bay Packers", abbr: GB, logo: gb.png }
+    pick: PHI
+    picker: "Dwash"
+    confidence: 3
+    rationale: "Eagles' talent should win the opener; Packers traveling overseas."
+    result: wrong
+    lesson: "We learned that overseas games are chaotic and travel messes with routines. The Packers showed up when it mattered."
+    score: { home: 24, away: 34 }
+  - home: { name: "Kansas City Chiefs", abbr: KC, logo: kc.png }
+    away: { name: "Baltimore Ravens", abbr: BAL, logo: bal.png }
+    pick: KC
+    picker: "Dwash"
+    confidence: 4
+    rationale: "Chiefs at home, champs, untouchable."
+    result: correct
+    score: { home: 32, away: 24 }

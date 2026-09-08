@@ -1,0 +1,48 @@
+year: 2025
+week: 1
+season: "2025 Season"
+title: "Week 1"
+intro: "Season opener! Here's who we're riding with this week. Results will update as games finish."
+games:
+  - home: { name: "Kansas City Chiefs", abbr: KC, logo: kc.png }
+    away: { name: "Baltimore Ravens", abbr: BAL, logo: bal.png }
+    pick: KC
+    picker: "Dwash"
+    confidence: 4
+    rationale: "Reigning champs at home in the opener. Mahomes with a full toolbox to start the year."
+    result: pending
+  - home: { name: "Buffalo Bills", abbr: BUF, logo: buf.png }
+    away: { name: "New York Jets", abbr: NYJ, logo: nyj.png }
+    pick: BUF
+    picker: "The Bro"
+    confidence: 3
+    rationale: "The Bills' offense is more settled, and the Jets' secondary is banged up."
+    result: pending
+  - home: { name: "Dallas Cowboys", abbr: DAL, logo: dal.png }
+    away: { name: "Philadelphia Eagles", abbr: PHI, logo: phi.png }
+    pick: PHI
+    picker: "Dwash"
+    confidence: 3
+    rationale: "Eagles' trenches win this one. We keep falling for the Cowboys in primetime."
+    result: pending
+  - home: { name: "San Francisco 49ers", abbr: SF, logo: sf.png }
+    away: { name: "Seattle Seahawks", abbr: SEA, logo: sea.png }
+    pick: SF
+    picker: "The Bro"
+    confidence: 4
+    rationale: "The 49ers are the more complete team, especially with the run game in Seattle."
+    result: pending
+  - home: { name: "Green Bay Packers", abbr: GB, logo: gb.png }
+    away: { name: "Detroit Lions", abbr: DET, logo: det.png }
+    pick: DET
+    picker: "Dwash"
+    confidence: 2
+    rationale: "NFC North shootout. Detroit's speed on offense should edge it, but it's close."
+    result: pending
+  - home: { name: "Miami Dolphins", abbr: MIA, logo: mia.png }
+    away: { name: "New England Patriots", abbr: NE, logo: ne.png }
+    pick: MIA
+    picker: "The Bro"
+    confidence: 4
+    rationale: "Dolphins' speed should overwhelm the Pats' young defense at home."
+    result: pending

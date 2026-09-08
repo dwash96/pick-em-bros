@@ -1,0 +1,39 @@
+year: 2025
+week: 1
+season: "2025 Season"
+title: "Week 1"
+intro: "Opening weekend — we had a strong start overall, but one pick stung us."
+games:
+  - home: { name: "Kansas City Chiefs", abbr: KC, logo: kc.png }
+    away: { name: "Baltimore Ravens", abbr: BAL, logo: bal.png }
+    pick: KC
+    picker: "Dwash"
+    confidence: 5
+    rationale: "Reigning champs at home, Mahomes at Arrowhead. Easy."
+    result: correct
+    score: { home: 34, away: 28 }
+  - home: { name: "Tampa Bay Buccaneers", abbr: TB, logo: tb.png }
+    away: { name: "Atlanta Falcons", abbr: ATL, logo: atl.png }
+    pick: TB
+    picker: "The Bro"
+    confidence: 3
+    rationale: "Bucs' pass rush should get home in a division matchup."
+    result: wrong
+    lesson: "We learned the Falcons' new-look offense is for real — the over/under on Baker getting hit was way off. Need to respect improved offensive lines in Week 1."
+    score: { home: 21, away: 30 }
+  - home: { name: "New Orleans Saints", abbr: NO, logo: no.png }
+    away: { name: "Carolina Panthers", abbr: CAR, logo: car.png }
+    pick: NO
+    picker: "Dwash"
+    confidence: 3
+    rationale: "Saints' home-field advantage in a division opener."
+    result: correct
+    score: { home: 27, away: 13 }
+  - home: { name: "Chicago Bears", abbr: CHI, logo: chi.png }
+    away: { name: "Detroit Lions", abbr: DET, logo: det.png }
+    pick: DET
+    picker: "The Bro"
+    confidence: 4
+    rationale: "Lions are the more complete team on both sides of the ball."
+    result: correct
+    score: { home: 16, away: 31 }

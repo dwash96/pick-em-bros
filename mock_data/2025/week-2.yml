@@ -1,0 +1,39 @@
+year: 2025
+week: 2
+season: "2025 Season"
+title: "Week 2"
+intro: "A mixed bag — we nailed a few and got burned on one."
+games:
+  - home: { name: "San Francisco 49ers", abbr: SF, logo: sf.png }
+    away: { name: "Los Angeles Rams", abbr: LAR, logo: lar.png }
+    pick: SF
+    picker: "Dwash"
+    confidence: 4
+    rationale: "The 49ers' run game and pass rush should be too much on the road."
+    result: correct
+    score: { home: 28, away: 17 }
+  - home: { name: "Baltimore Ravens", abbr: BAL, logo: bal.png }
+    away: { name: "Cincinnati Bengals", abbr: CIN, logo: cin.png }
+    pick: BAL
+    picker: "The Bro"
+    confidence: 3
+    rationale: "Ravens' defense always gets up for the division game."
+    result: wrong
+    lesson: "We learned that in divisional games you can throw out the records. The Bengals' deep passing game caught the Ravens' secondary sleeping. Don't chase last week's narrative."
+    score: { home: 24, away: 27 }
+  - home: { name: "Seattle Seahawks", abbr: SEA, logo: sea.png }
+    away: { name: "New England Patriots", abbr: NE, logo: ne.png }
+    pick: SEA
+    picker: "Dwash"
+    confidence: 4
+    rationale: "Seahawks at home are a different team; Pats are rebuilding."
+    result: correct
+    score: { home: 31, away: 20 }
+  - home: { name: "New York Jets", abbr: NYJ, logo: nyj.png }
+    away: { name: "Denver Broncos", abbr: DEN, logo: den.png }
+    pick: DEN
+    picker: "The Bro"
+    confidence: 2
+    rationale: "Broncos' defense keeps games tight, but this is basically a coin flip."
+    result: correct
+    score: { home: 17, away: 21 }

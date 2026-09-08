@@ -14,7 +14,7 @@ const pick = computed(() => (props.game.pick || '').toUpperCase());
 const result = computed(() => props.game.result || 'pending');
 const isHomePick = computed(() => home.value.abbr && pick.value === home.value.abbr.toUpperCase());
 const isAwayPick = computed(() => away.value.abbr && pick.value === away.value.abbr.toUpperCase());
-const pickLabel = computed(() => pick.value || '—');
+const resultLabel = computed(() => ({ correct: 'Correct', wrong: 'Wrong' })[result.value] || '');
 </script>
 
 <template>
@@ -37,7 +37,7 @@ const pickLabel = computed(() => pick.value || '—');
           </div>
         </div>
       </div>
-      <span class="pick-badge" :class="result">{{ pickLabel }}</span>
+<span v-if="result !== 'pending'" class="pick-badge" :class="result">{{ resultLabel }}</span>
     </div>
     <div class="game-bottom">
       <div class="rationale-preview">{{ game.rationale || 'Click to view rationale' }}</div>

@@ -5,11 +5,14 @@
 !*/
 
 # Recursively allow files under subtree
+!/.agent/**
 !/.github/**
+!/data/**
+!/mock_data/**
+!/public/**
+!/src/**
 
-
-# ===================== Keep these tracked =====================
-# Root config / docs
+# Specific Files
 !/.gitattributes
 !/.gitignore
 !/package.json
@@ -20,35 +23,20 @@
 !/README.md
 !/data-schema.md
 
-# Source code
-!/src/**
-
-# Public assets (team logos, favicon)
-!/public/**
-
-# The pick data the site is built from (data/{year}/week-{N}.yml)
-!/data/**
-
-# Local dev fixtures
-!/mock_data/**
-
-# Automation skills/subagents
-!/.agent/**
-
-
-# ===================== Stay ignored =====================
-# (these are already covered by the ignore-all above, listed for clarity)
-node_modules/
-dist/
-*.local
-.env
-.env.*
-!.env.example
-.cecli/
+# Ignore specific files
 npm-debug.log*
 yarn-*.log*
 pnpm-debug.log*
 .DS_Store
 Thumbs.db
+*.local
+.env
+.env.*
+!.env.example
+
+# Ignore Folders
+node_modules/
+dist/
 .vscode/
 .idea/
+.cecli/
